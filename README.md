@@ -17,10 +17,13 @@ Kamu dapat mengakses repositori publik proyek ini di:
 
 Berikut adalah tampilan dari beberapa bagian proyek yang ada di dalam portofolio:
 
-| Game Naratif | Web Profil Sekolah |
-| :---: | :---: |
-| ![Pratinjau Proyek Game Naratif](experiment%202%20-%20final%20assignment/assets/gamenaratif.png) | ![Pratinjau Proyek SMAN 10 BDL](experiment%202%20-%20final%20assignment/assets/sma10bdl.png) |
+| Web Movie Rating | Sistem Manajemen ATK | Game Cerita Naratif |
+| :---: | :---: | :---: |
+| ![Pratinjau Proyek Movie Rating](assets/movierating.png) | ![Pratinjau Proyek Manajemen ATK](assets/manajemenatk.png) | ![Pratinjau Proyek Game Naratif](assets/gamenaratif.png) |
 
+| Web Profil Sekolah | Analisis Data (ML) | LiteraStore |
+| :---: | :---: | :---: |
+| ![Pratinjau Proyek SMAN 10 BDL](assets/sma10bdl.png) | ![Pratinjau Proyek Analisis Data](assets/penyewaansepeda.png) | ![Pratinjau Proyek LiteraStore](assets/literastore.png) |
 ---
 
 ## Teknologi yang Digunakan
@@ -36,7 +39,7 @@ Karena ini adalah website statis, tidak diperlukan proses instalasi yang komplek
 
 1.  **Clone repository ini:**
     ```bash
-    git clone [https://github.com/firmanfarelrichardo/experiment-2_final-assignment.git](https://github.com/firmanfarelrichardo/experiment-2_final-assignment.git)
+    git clone https://github.com/firmanfarelrichardo/experiment-2_final-assignment.git
     ```
 2.  **Masuk ke direktori proyek:**
     ```bash
@@ -88,4 +91,5 @@ Proyek ini dikerjakan dengan mengikuti alur kerja (workflow) Git yang terstruktu
 
 Berikut adalah *screenshot* dari perintah `git log --graph --oneline` yang menunjukkan riwayat *commit* serta alur kerja *branching* dan *merge* yang telah dilakukan:
 
-![Git Log Graph](experiment%202%20-%20final%20assignment/screenshot/git-log.png)
+![Git Log Graph](screenshot/git-log.png)
+![Git Merge](screenshot/merge.png)
