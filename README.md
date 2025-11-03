@@ -90,6 +90,7 @@ Proyek ini dikerjakan dengan mengikuti alur kerja (workflow) Git yang terstruktu
 ## Riwayat Git Log
 
 Berikut adalah *screenshot* dari perintah `git log --graph --oneline` yang menunjukkan riwayat *commit* serta alur kerja *branching* dan *merge* yang telah dilakukan:
-
 ![Git Log Graph](screenshot/git-log.png)
+
+Berikut adalah *screenshot* dari perintah `git merge sidebar-footer` yang menunjukkan hasil *merge* yang telah dilakukan:
 ![Git Merge](screenshot/merge.png)
