@@ -100,6 +100,9 @@ html, body {
     margin-top: auto;
     padding-top: 1.5rem;
     font-size: 0.9rem;
+    display: flex;
+    gap: 0.6rem;
+    align-items: center;
 }
 
 .sidebar-footer a {
@@ -109,6 +112,31 @@ html, body {
 }
 .sidebar-footer a:hover {
     color: var(--text-color);
+}
+
+.social-link {
+    display: inline-flex;
+    align-items: center;
+}
+
+.social-icon {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    display: block;
+}
+
+/* helper untuk aksesibilitas (sembunyikan teks tapi tetap dapat di-scan oleh screen reader) */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+    border: 0;
 }
 
 /* ========== Card / Section base styling ========== */
