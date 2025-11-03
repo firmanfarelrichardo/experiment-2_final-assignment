@@ -1,6 +1,6 @@
 # Website Portofolio Pribadi - Firman Farel Richardo
 
-Ini adalah *final assignment* untuk mata kuliah Praktikum Pemrograman Web (Semester 5). Proyek ini merupakan website portofolio pribadi statis yang dibuat untuk menampilkan profil, riwayat pendidikan, keahlian, dan proyek-proyek yang pernah dikerjakan.
+Ini adalah *tugas akhir percobaan kedua* untuk mata kuliah Praktikum Pemrograman Web (Semester 5). Proyek ini merupakan website portofolio pribadi statis yang dibuat untuk menampilkan profil, riwayat pendidikan, keahlian, dan proyek-proyek yang pernah dikerjakan.
 
 Proyek ini dibuat berdasarkan *file* `index.html` dan `style.css` yang telah disiapkan.
 
